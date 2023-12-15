@@ -1,0 +1,32 @@
+{
+    "recommendations": [
+        "nuxt.mdc",
+        "bierner.markdown-yaml-preamble",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-mermaid",
+        "lzm0x219.vscode-markdown-github",
+        "robertohuertasm.vscode-marketplace-preview",
+        "shivanshu-gupta.markdown-extension-pack",
+        "marp-team.marp-vscode",
+        "mistermunchkin.simple-markdown-snippets",
+        "64kramsystem.markdown-code-blocks-asm-syntax-highlighting",
+        "tuttieee.emacs-mcx",
+        "znck.grammarly",
+        "jeoht.es6-string-markdown",
+        "gkalpak.aio-docs-utils",
+        "bitlang.cobol",
+        "zokugun.vsix-manager",
+        "jiangweixian.vscode-github-md-like-notion",
+        "usernamehw.errorlens",
+        "techiecouch.payloadcms-snippets",
+        "rikardjohansson.nextemplates",
+        "accordproject.cicero-vscode-extension",
+        "christianvoigt.argdown-vscode",
+        "johnmark.vscode-gitinfo",
+        "graphql.vscode-graphql-syntax",
+        "thomanq.math-snippets",
+        "threecomma.vscode-readme",
+        "lostintangent.wikilens",
+        "arbitraer.laravel-blade-additional-snippets"
+    ]
+}
